@@ -10,9 +10,16 @@ li
 {
     color: azure;
 }
-.highlight
+
+h1
 {
- color: chartreuse;
- font-weight: bold;
- background-color:antiquewhite;
+color: rgb(29, 166, 197);
+}
+body
+{
+   background-color: rgb(35, 35, 35);
+}
+li
+{
+    color: azure;
 }
