@@ -1,0 +1,14 @@
+div p 
+{
+    color:blue;
+}
+div > p {
+    font-weight:bold;
+}
+li + li
+{ 
+    background-color: rgb(95, 95, 95);
+    border-style:solid ;
+    border-color:black;
+    color:rgb(255, 255, 255);
+}
