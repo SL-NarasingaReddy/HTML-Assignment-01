@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgb(93, 91, 91);
+}
+h1
+{
+    color: blue;
+    text-align: center;
+    text-shadow:50px;
+     text-decoration-color:rgb(252, 252, 252);
+     text-transform:uppercase;
+     text-rendering: optimizeLegibility;
+     text-rendering: optimizeSpeed;
+     text-rendering: geometricPrecision;
+}
+p
+{
+    text-align:center;
+    border-style:solid;
+    border-width:4px;
+    border-color:rgb(255, 0, 0);
+    border-radius:15px;
+    color: rgb(205, 255, 3);
+    margin:auto;
+    padding:2%;
+
+}

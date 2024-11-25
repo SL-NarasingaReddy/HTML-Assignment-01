@@ -1,14 +1,16 @@
 div p 
 {
-    color:blue;
+    color:rgb(255, 0, 0);
 }
 div > p {
     font-weight:bold;
 }
 li + li
 { 
-    background-color: rgb(95, 95, 95);
+    background-color: rgba(108, 106, 106, 0.685);
     border-style:solid ;
     border-color:black;
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    margin:5px;
+    padding:5px;
 }
