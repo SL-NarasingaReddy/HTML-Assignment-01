@@ -1,25 +1,10 @@
-h1
+#name
 {
-color: rgb(29, 166, 197);
+    color: rgb(147, 145, 145);
 }
-body
-{
-   background-color: rgb(35, 35, 35);
+body{
+   background-color: rgba(0, 0, 0, 0.697);
 }
-li
-{
-    color: azure;
-}
-
-h1
-{
-color: rgb(29, 166, 197);
-}
-body
-{
-   background-color: rgb(35, 35, 35);
-}
-li
-{
-    color: azure;
+ul{
+    color: #d01515;
 }

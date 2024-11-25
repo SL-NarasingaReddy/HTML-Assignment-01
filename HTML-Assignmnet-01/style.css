@@ -1,0 +1,14 @@
+/*chnage text color of all direct child div elements*/
+body{
+    background-color: rgb(94, 88, 88);
+}
+.case
+{
+color: rgb(180, 179, 189);
+}
+#intial{
+    color: rgb(255, 38, 0);
+    border:3px;
+    border-color:black;
+    border-style: solid;
+}
