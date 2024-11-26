@@ -1,0 +1,13 @@
+.image{
+    position:relative;
+    text-align: center;
+    color:aliceblue
+}
+.text
+{
+    font-size:250%;
+    position:absolute;
+    bottom:50%;
+    right:50%
+  
+}
