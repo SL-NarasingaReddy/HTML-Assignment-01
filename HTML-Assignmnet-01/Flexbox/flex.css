@@ -1,0 +1,38 @@
+.container
+{
+    color:hsl(0, 0%, 100%);
+    border:2px solid #6b6bff;
+    display:flex;
+    justify-content:center;
+    
+}
+#box1
+{
+    display:flex;
+    justify-items:end;
+    border:2px solid rgb(255, 0, 255);
+    color:rgb(0, 0, 0);
+    font-size:50px;
+    
+
+}
+#box2{
+    margin: 10%;
+    padding: 10%;
+    border:2px solid rgb(2, 132, 35);
+    font-size:10%;
+    color:hsl(0, 100%, 50%);
+    justify-items:center;
+    
+}
+body{
+    background-image:url(sportspink.jpg);
+    background-image:
+}
+h1
+{
+    display:flex;
+    justify-content: center;
+    border:3px solid black;
+    
+}
