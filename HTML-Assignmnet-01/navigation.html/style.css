@@ -2,8 +2,8 @@ body{
     margin:0%;
 }
 main{
-    margin-left:5%;
-    margin-right:5%  
+    margin-left:10%;
+    margin-right:10%  
 }
 h1
 {
@@ -24,10 +24,21 @@ h1
       text-align:start;
 }
 .navbar a:hover {
-            background-color:rgb(33, 33, 33) ;
-
+    text-shadow:10px;
+            background-color:rgb(0, 0, 0) ;
+            transition-duration:0.7s;
 }
 .navbar li
 {
     float:right;
+}
+footer{
+    display:block;
+    text-align: center;
+    color:white;
+    .copyright{ 
+        border:1px;
+        border-color:hsl(0, 0%, 55%);
+
+    }
 }
